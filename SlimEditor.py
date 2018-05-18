@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtGui import QIcon
 from PyQt5 import QtPrintSupport
 
-class Example(QMainWindow):
+class FileEditor(QMainWindow):
 
     def __init__(self):
         super().__init__()
@@ -132,5 +132,5 @@ class Example(QMainWindow):
 if __name__ == '__main__':
     
     app = QApplication(sys.argv)
-    ex = Example()
+    ex = FileEditor()
     sys.exit(app.exec_())
