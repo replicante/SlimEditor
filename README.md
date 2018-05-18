@@ -18,7 +18,10 @@ In order to run this program, you will need to have Python 3 and PyQt5 installed
 
 On Linux:
 
-[sourcecode language="bash"]python SlimEditor[/sourcecode]
+```
+bash
+python SlimEditor
+```
 
 
 ## TODO
