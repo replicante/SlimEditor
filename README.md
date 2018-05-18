@@ -1,6 +1,6 @@
 # SlimEditor
 
-A scrawny and minimalist text editor built in PyQt5.Just for fun and learning purposes.
+A scrawny and minimalist text editor built in PyQt5. Just for fun and learning purposes.
 
 ## Features
 
