@@ -23,7 +23,7 @@ python SlimEditor
 ```
 
 
-## TODO
+## To-Do list
 
 - [ ] Search and Replace text.
 - [ ] Encryption & Decryption with multiple protocols.
