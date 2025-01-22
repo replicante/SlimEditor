@@ -1,6 +1,6 @@
 # SlimEditor
 
-A scrawny and minimalist text editor built in PyQt5. Just for fun and learning purposes.
+A scrawny and minimalist text editor built in PyQt6. Just for fun and learning purposes.
 
 ## Features
 
@@ -12,9 +12,13 @@ A scrawny and minimalist text editor built in PyQt5. Just for fun and learning p
 
 - Selection of text fonts.
 
+- Search and replace.
+  
+- Symmetric encryption (Fernet)
+
 ## Getting started
 
-In order to run this program, you will need to have Python 3 and PyQt5 installed. 
+In order to run this program, you will need to have Python 3 and PyQt6 installed. 
 
 On Linux:
 
