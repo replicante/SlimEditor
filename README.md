@@ -29,7 +29,6 @@ python SlimEditor
 
 ## To-Do list
 
-- [ ] Search and Replace text.
-- [ ] Encryption & Decryption with multiple protocols.
+- [x] Search and Replace text.
 - [ ] Syntax highlighting.
 
