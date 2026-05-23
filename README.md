@@ -30,5 +30,5 @@ python SlimEditor
 ## To-Do list
 
 - [x] Search and Replace text.
-- [ ] Syntax highlighting.
+- [x] Syntax highlighting.
 
